@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Nova Solvason"
-  avatar           : "https://NovaSolvason.github.io/assets/images/Nova Headshot Square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Nova Headshot Square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate Student, Astrophysical Sciences and Technology: Rochester Institute of Technology"
   location         : "Rochester Institute of Technology"
   #email            : "--"
