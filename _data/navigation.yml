@@ -1,13 +1,13 @@
 # main links
 main:
-   -title: "About"
-     url: /about/
-   -title: "Research"
-    url: /research/
-   -title: "CV"
-    url: /CV/
-   - title: "Sculpture Portfolio"
-    url: /artworks/
+ - title: "About"
+   url: /about/
+ - title: "Research"
+   url: /research/
+ - title: "CV"
+   url: /CV/
+ - title: "Sculpture Portfolio"
+   url: /artworks/
    #- title: "Research"
    # url: /research/
    #- title: "Research"
