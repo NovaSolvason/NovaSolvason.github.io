@@ -1,17 +1,17 @@
 # main links
 main:
    - title: "About"
-     url: https://novasolvason.github.io/about/
+     url: /about/
    - title: "Research"
-    url: https://novasolvason.github.io/research/
+    url: /research/
    - title: "CV"
-    url: https://novasolvason.github.io/CV/
+    url: /CV/
    - title: "Sculpture Portfolio"
-    url: https://novasolvason.github.io/artworks/
+    url: /artworks/
    #- title: "Research"
-   # url: https://novasolvason.github.io/research/
+   # url: /research/
    #- title: "Research"
-   # url: https://novasolvason.github.io/research/
+   # url: /research/
 
     
   # - title: "Sample Posts"
