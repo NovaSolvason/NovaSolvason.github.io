@@ -126,7 +126,7 @@ author:
       url: "https://ridl.cfd.rit.edu/"
     - label: "CV"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/NovaSolvason/NovaSolvason.github.io/tree/master/assets/files/NovaSolvason_CV.pdf"
+      url: "https://NovaSolvason.github.io/assets/files/NovaSolvason_CV.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NovaSolvason"
