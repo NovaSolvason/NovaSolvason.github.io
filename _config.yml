@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Nova Solvason, MS"
+title                    : "Nova Solvason"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nova Solvason"
@@ -116,20 +116,17 @@ analytics:
 author:
   name             : "Nova Solvason"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate Student, Astrophysical Sciences and Technology--Rochester Institute of Technology"
-  location         : "Center for Detectors -- Rochester Institute of Technology"
+  bio              : "Graduate Student, Astrophysical Sciences and Technology: Rochester Institute of Technology"
+  location         : "Rochester Institute of Technology"
   email            : "--"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "RIT Center for Detectors"
       icon: "fas fa-fw fa-link"
-      url: "https://novasolvason.github.io/"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-square-x-twitter"
-    #  # url: "https://twitter.com/"
+      url: "https://ridl.cfd.rit.edu/"
+    - label: "CV"
+      icon: ""
+      url: "https://github.com/NovaSolvason/NovaSolvason.github.io/tree/master/assets/files/CV.pdf"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-square-facebook"
     #  # url: "https://facebook.com/"
