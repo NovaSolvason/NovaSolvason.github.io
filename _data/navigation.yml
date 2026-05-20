@@ -1,9 +1,19 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+   - title: "About"
+     url: https://novasolvason.github.io/about/
+   - title: "Research"
+    url: https://novasolvason.github.io/research/
+   - title: "CV"
+    url: https://novasolvason.github.io/CV/
+   - title: "Sculpture Portfolio"
+    url: https://novasolvason.github.io/artworks/
+   #- title: "Research"
+   # url: https://novasolvason.github.io/research/
+   #- title: "Research"
+   # url: https://novasolvason.github.io/research/
+
+    
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
