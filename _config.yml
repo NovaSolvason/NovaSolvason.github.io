@@ -118,24 +118,18 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate Student, Astrophysical Sciences and Technology: Rochester Institute of Technology"
   location         : "Rochester Institute of Technology"
-  email            : "--"
+  #email            : "--"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "RIT Center for Detectors"
       icon: "fas fa-fw fa-link"
       url: "https://ridl.cfd.rit.edu/"
     - label: "CV"
-      icon: ""
+      icon: "fas fa-fw fa-link"
       url: "https://github.com/NovaSolvason/NovaSolvason.github.io/tree/master/assets/files/CV.pdf"
-    #- label: "Facebook"
-    #  icon: "fab fa-fw fa-square-facebook"
-    #  # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NovaSolvason"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  # url: "https://instagram.com/"
 
 # Site Footer
 footer:
