@@ -8,6 +8,7 @@
   <head>
     {% include head.html locale=locale %}
     {% include head/custom.html %}
+     <link rel="shortcut icon" type="image/x-icon" href="assets/images/asassn15drawn.ico">
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
